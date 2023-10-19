@@ -1,0 +1,6 @@
+	 Course ID   : 6956
+	 Course Name : Java Programming
+	 Course Duration (Full-Time) : 6 months
+	 Course Duration (Part-Time) : 8 months
+	 Course Fee : 16000rs
+	 Course Entry Qualification  : After O/l

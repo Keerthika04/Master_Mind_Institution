@@ -1,0 +1,6 @@
+	 Course ID   : 6692
+	 Course Name : Web Development
+	 Course Duration (Full-Time) : 6 months
+	 Course Duration (Part-Time) : 8 months
+	 Course Fee : 18000rs
+	 Course Entry Qualification  : After O/l

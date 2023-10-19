@@ -1,0 +1,6 @@
+	 Course ID   : 7547
+	 Course Name : Soft Skills Development
+	 Course Duration (Full-Time) : 3 months
+	 Course Duration (Part-Time) : 5 months
+	 Course Fee : 15000rs
+	 Course Entry Qualification  : After O/l

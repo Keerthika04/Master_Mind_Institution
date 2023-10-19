@@ -1,0 +1,6 @@
+	 Student ID   : 3676
+	 Student Name : Johny John
+	 Course Selected : Web Development
+	 Student's Phone No : 98654568
+	 Student's Email : John45@gmail.com
+	 Payment  : Paid

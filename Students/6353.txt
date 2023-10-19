@@ -1,0 +1,6 @@
+	 Student ID   : 6353
+	 Student Name : Johny Joo
+	 Course Selected : Soft Skills Development
+	 Student's Phone No : 761231234
+	 Student's Email : Annie144@gmail.com
+	 Payment  : Paid

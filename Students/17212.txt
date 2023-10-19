@@ -1,0 +1,6 @@
+	 Student ID   : 17212
+	 Student Name : Dhaksith
+	 Course Selected : Soft Skils Development
+	 Student's Phone No : 770475254
+	 Student's Email : dhaksith6@gmail.com
+	 Payment  : Paid
